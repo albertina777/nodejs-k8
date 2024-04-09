@@ -3,8 +3,8 @@
 replicaCount: 1
 revisionHistoryLimit: 1
 image:
-  repository: nfqlt/nodeserver16
-  tag: latest
+  repository: sutoj/nodeserver-run
+  tag: 1.2.0
   pullPolicy: IfNotPresent 
   resources:
     requests:
